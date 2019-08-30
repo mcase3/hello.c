@@ -1,6 +1,6 @@
 /**
- * Author: Markus Case Jon Haag
- * Date: 2019/08/27
+ * Author: Markus Case
+ * Date: 2019/08/29
  *
  * A simple hello world program in C
  *
@@ -10,7 +10,9 @@
 
 int main(int argc, char **argv) {
 
-  printf("Mark and Jon are the best hackers in the world!\n");
+  printf("Markus Case\n");
+
+  printf("MechE\n");
 
   return 0;
 }
